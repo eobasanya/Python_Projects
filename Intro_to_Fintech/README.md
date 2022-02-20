@@ -1,5 +1,7 @@
 
-![NumerAI Header](NUMERAI.png) 
+<p align="center">
+<img src="NumerAI.png" alt="drawing" width="1000"/>
+</p
 
 
 # NUMERAI - A Modern AI Investing Platform 
