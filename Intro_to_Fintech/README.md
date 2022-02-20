@@ -44,9 +44,10 @@ NumerAI's platform uses the predictions from various trading algorithms to deter
 
 
 <p align="center">
-<img src="leaderboard.png" alt="drawing" width="500"/>
+<img src="signalleaderboard.PNG" alt="drawing" width="500"/>
 </p>
 <p align="center">
+
 NumerAI Signal leaderboard as seen on signals.numer.ai website</p>
 
 The company's unique approach doesn't have many competing companies on the market currently. Quantopian used to be a major competitor, but quickly took the data obtained from different algorithms users created on its platform and used it to start a new hedge fund. The firm subsequently closed public use of its platform, shutting out prospective retail investors for institutional clients. NumerAI's unique approach integrates the blockchain and the anonymized data to keep data scientists trust in the platform, while also building a profitable hedge fund in the process. Other competitors would be quant funds such as Two Sigma, Citadel, Rennaissance Technologies, and more. 
